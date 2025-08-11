@@ -8,7 +8,7 @@ I'm a Full Stack Developer with a strong background in AI/ML and Data Science, p
 
 * 🌍  I'm based in Singapore
 * 🖥️  See my portfolio at [MyPortfolio](http://sites.google.com/view/mudiyanselagehiran/)
-* ✉️  You can contact me at [fungjunjie97211@gmail.com](mailto:fungjunjie97211@gmail.com)
+* ✉️  You can contact me at [fungjunjie97211@gmail.com](mailto:kungjunjie97211@gmail.com)
 * 🚀  I'm currently working on [ETC Meeting Room Booking Application](http://etconnect-project.onrender.com)
 * 🤝  I'm open to collaborating on Anything exciting that sparks curiosity and challenges my skills.
 
